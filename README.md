@@ -13,7 +13,7 @@ raytracer features:
 - multithreaded rendering
 - fps controls/viewing
 
-renders 15 fps on average
+renders 15~ fps on average
 
 # Demo
 ![raytracerDemo](https://github.com/tenick/sdlRaytracer/blob/master/gitResources/raytracerDemo.gif)
