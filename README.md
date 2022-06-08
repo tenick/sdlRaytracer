@@ -12,4 +12,5 @@ raytracer features:
 renders 15 fps on average
 
 demo:
-![raytracerDemo.gif]([http://i.imgur.com/OUkLi.gif](https://github.com/tenick/sdlRaytracer/blob/master/gitResources/raytracerDemo.gif))
+![raytracerDemo.gif](http://i.imgur.com/OUkLi.gif](https://github.com/tenick/sdlRaytracer/blob/master/gitResources/raytracerDemo.gif)
+
