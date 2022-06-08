@@ -4,7 +4,8 @@
 first c++ project
 
 raytracer made only using sdl and pure software/CPU rendering no GPU
-sdl only used for creating window and drawing individual pixels
+
+sdl only used for creating window and drawing individual pixels on that window
 
 raytracer features:
 - specular, diffuse reflections
