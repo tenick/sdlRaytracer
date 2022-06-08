@@ -148,11 +148,6 @@
   <ItemGroup>
     <ClCompile Include="main.cpp" />
   </ItemGroup>
-  <ItemGroup>
-    <Image Include="Bitmap.bmp" />
-    <Image Include="hello_world.bmp" />
-    <Image Include="testwatermark2.jpg" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
