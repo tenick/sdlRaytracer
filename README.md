@@ -1,4 +1,5 @@
-sdlRaytracer
+
+# sdlRaytracer
 
 first c++ project
 
@@ -8,9 +9,9 @@ raytracer features:
 - specular, diffuse reflections
 - point, directional, ambient lighting
 - multithreaded rendering
+- fps controls/viewing
 
 renders 15 fps on average
 
-demo:
-![raytracerDemo.gif](http://i.imgur.com/OUkLi.gif](https://github.com/tenick/sdlRaytracer/blob/master/gitResources/raytracerDemo.gif)
-
+# Demo
+![raytracerDemo](https://github.com/tenick/sdlRaytracer/blob/master/gitResources/raytracerDemo.gif)
